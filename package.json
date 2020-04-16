@@ -1,0 +1,19 @@
+{
+  "name": "git-teste3",
+  "version": "1.0.0",
+  "description": "Primeiro programa node ",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sofiamanfredini1/git-teste3.git"
+  },
+  "author": "Sofia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofiamanfredini1/git-teste3/issues"
+  },
+  "homepage": "https://github.com/sofiamanfredini1/git-teste3#readme"
+}
